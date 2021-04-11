@@ -4,11 +4,27 @@
 CMakeFiles/untitled1.dir/Boss.cpp.obj
  C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Boss.cpp
  C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Boss.h
- C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Employe.h
+CMakeFiles/untitled1.dir/Cuadrado.cpp.obj
+ C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Cuadrado.cpp
+ C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Cuadrado.h
+ C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Shapes.h
 CMakeFiles/untitled1.dir/Employe.cpp.obj
  C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Boss.h
  C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Employe.cpp
  C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Employe.h
+CMakeFiles/untitled1.dir/Facade_Generator.cpp.obj
+ C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Cuadrado.h
+ C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Generator.cpp
+ C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Generator.h
+ C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Shapes.h
+ C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Triangulo.h
+CMakeFiles/untitled1.dir/Facade_Shapes.cpp.obj
+ C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Shapes.cpp
+ C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Shapes.h
+CMakeFiles/untitled1.dir/Triangulo.cpp.obj
+ C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Shapes.h
+ C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Triangulo.cpp
+ C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Triangulo.h
 CMakeFiles/untitled1.dir/main.cpp.obj
  C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Boss.h
  C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Employe.h

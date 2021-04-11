@@ -154,6 +154,33 @@ Boss.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled1.dir\Boss.cpp.s
 .PHONY : Boss.cpp.s
 
+Cuadrado.obj: Cuadrado.cpp.obj
+
+.PHONY : Cuadrado.obj
+
+# target to build an object file
+Cuadrado.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled1.dir\Cuadrado.cpp.obj
+.PHONY : Cuadrado.cpp.obj
+
+Cuadrado.i: Cuadrado.cpp.i
+
+.PHONY : Cuadrado.i
+
+# target to preprocess a source file
+Cuadrado.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled1.dir\Cuadrado.cpp.i
+.PHONY : Cuadrado.cpp.i
+
+Cuadrado.s: Cuadrado.cpp.s
+
+.PHONY : Cuadrado.s
+
+# target to generate assembly for a file
+Cuadrado.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled1.dir\Cuadrado.cpp.s
+.PHONY : Cuadrado.cpp.s
+
 Employe.obj: Employe.cpp.obj
 
 .PHONY : Employe.obj
@@ -180,6 +207,87 @@ Employe.s: Employe.cpp.s
 Employe.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled1.dir\Employe.cpp.s
 .PHONY : Employe.cpp.s
+
+Facade_Generator.obj: Facade_Generator.cpp.obj
+
+.PHONY : Facade_Generator.obj
+
+# target to build an object file
+Facade_Generator.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled1.dir\Facade_Generator.cpp.obj
+.PHONY : Facade_Generator.cpp.obj
+
+Facade_Generator.i: Facade_Generator.cpp.i
+
+.PHONY : Facade_Generator.i
+
+# target to preprocess a source file
+Facade_Generator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled1.dir\Facade_Generator.cpp.i
+.PHONY : Facade_Generator.cpp.i
+
+Facade_Generator.s: Facade_Generator.cpp.s
+
+.PHONY : Facade_Generator.s
+
+# target to generate assembly for a file
+Facade_Generator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled1.dir\Facade_Generator.cpp.s
+.PHONY : Facade_Generator.cpp.s
+
+Facade_Shapes.obj: Facade_Shapes.cpp.obj
+
+.PHONY : Facade_Shapes.obj
+
+# target to build an object file
+Facade_Shapes.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled1.dir\Facade_Shapes.cpp.obj
+.PHONY : Facade_Shapes.cpp.obj
+
+Facade_Shapes.i: Facade_Shapes.cpp.i
+
+.PHONY : Facade_Shapes.i
+
+# target to preprocess a source file
+Facade_Shapes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled1.dir\Facade_Shapes.cpp.i
+.PHONY : Facade_Shapes.cpp.i
+
+Facade_Shapes.s: Facade_Shapes.cpp.s
+
+.PHONY : Facade_Shapes.s
+
+# target to generate assembly for a file
+Facade_Shapes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled1.dir\Facade_Shapes.cpp.s
+.PHONY : Facade_Shapes.cpp.s
+
+Triangulo.obj: Triangulo.cpp.obj
+
+.PHONY : Triangulo.obj
+
+# target to build an object file
+Triangulo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled1.dir\Triangulo.cpp.obj
+.PHONY : Triangulo.cpp.obj
+
+Triangulo.i: Triangulo.cpp.i
+
+.PHONY : Triangulo.i
+
+# target to preprocess a source file
+Triangulo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled1.dir\Triangulo.cpp.i
+.PHONY : Triangulo.cpp.i
+
+Triangulo.s: Triangulo.cpp.s
+
+.PHONY : Triangulo.s
+
+# target to generate assembly for a file
+Triangulo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\untitled1.dir\Triangulo.cpp.s
+.PHONY : Triangulo.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -220,9 +328,21 @@ help:
 	@echo ... Boss.obj
 	@echo ... Boss.i
 	@echo ... Boss.s
+	@echo ... Cuadrado.obj
+	@echo ... Cuadrado.i
+	@echo ... Cuadrado.s
 	@echo ... Employe.obj
 	@echo ... Employe.i
 	@echo ... Employe.s
+	@echo ... Facade_Generator.obj
+	@echo ... Facade_Generator.i
+	@echo ... Facade_Generator.s
+	@echo ... Facade_Shapes.obj
+	@echo ... Facade_Shapes.i
+	@echo ... Facade_Shapes.s
+	@echo ... Triangulo.obj
+	@echo ... Triangulo.i
+	@echo ... Triangulo.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

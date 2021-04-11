@@ -3,11 +3,27 @@
 
 CMakeFiles\untitled1.dir\Boss.cpp.obj: ..\Boss.cpp
 CMakeFiles\untitled1.dir\Boss.cpp.obj: ..\Boss.h
-CMakeFiles\untitled1.dir\Boss.cpp.obj: ..\Employe.h
+
+CMakeFiles\untitled1.dir\Cuadrado.cpp.obj: ..\Cuadrado.cpp
+CMakeFiles\untitled1.dir\Cuadrado.cpp.obj: ..\Cuadrado.h
+CMakeFiles\untitled1.dir\Cuadrado.cpp.obj: ..\Facade_Shapes.h
 
 CMakeFiles\untitled1.dir\Employe.cpp.obj: ..\Boss.h
 CMakeFiles\untitled1.dir\Employe.cpp.obj: ..\Employe.cpp
 CMakeFiles\untitled1.dir\Employe.cpp.obj: ..\Employe.h
+
+CMakeFiles\untitled1.dir\Facade_Generator.cpp.obj: ..\Cuadrado.h
+CMakeFiles\untitled1.dir\Facade_Generator.cpp.obj: ..\Facade_Generator.cpp
+CMakeFiles\untitled1.dir\Facade_Generator.cpp.obj: ..\Facade_Generator.h
+CMakeFiles\untitled1.dir\Facade_Generator.cpp.obj: ..\Facade_Shapes.h
+CMakeFiles\untitled1.dir\Facade_Generator.cpp.obj: ..\Triangulo.h
+
+CMakeFiles\untitled1.dir\Facade_Shapes.cpp.obj: ..\Facade_Shapes.cpp
+CMakeFiles\untitled1.dir\Facade_Shapes.cpp.obj: ..\Facade_Shapes.h
+
+CMakeFiles\untitled1.dir\Triangulo.cpp.obj: ..\Facade_Shapes.h
+CMakeFiles\untitled1.dir\Triangulo.cpp.obj: ..\Triangulo.cpp
+CMakeFiles\untitled1.dir\Triangulo.cpp.obj: ..\Triangulo.h
 
 CMakeFiles\untitled1.dir\main.cpp.obj: ..\Boss.h
 CMakeFiles\untitled1.dir\main.cpp.obj: ..\Employe.h

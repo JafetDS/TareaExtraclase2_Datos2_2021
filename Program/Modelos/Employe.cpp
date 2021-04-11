@@ -2,36 +2,38 @@
 // Created by Jafet.
 //
 
-#include "Employe.h"
 #include <iostream>
-using namespace std;
+
+
+#include "Employe.h"
 
 
 
-Employe::Employe() {}
-Employe::Employe(const Boss &boss) : boss(boss) {}
 
-Boss Employe::getBoss(){
-    return this->boss;
+Employe::Employe(string name) {
+        this->name= name;
+
 }
+
 
 bool Employe::isworking() {
     return this->working;
 }
 
 void Employe::setworking(bool working) {
-    Employe::working = working;
-    Employe::tell_boss();
+    this->working = working;
+    tell_boss();
+
+
 
 }
 
 void Employe::tell_boss() {
-    Employe::boss.Notify();
+    this->boss.Notify(working,name);
+
 }
 
 void Employe::setBoss(Boss boss) {
-    Employe::boss = boss;
+    this->boss = boss;
 }
-
-
 

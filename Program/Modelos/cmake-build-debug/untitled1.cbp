@@ -90,10 +90,34 @@
 		<Unit filename="C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Boss.h">
 			<Option target="untitled1"/>
 		</Unit>
+		<Unit filename="C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Cuadrado.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Cuadrado.h">
+			<Option target="untitled1"/>
+		</Unit>
 		<Unit filename="C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Employe.cpp">
 			<Option target="untitled1"/>
 		</Unit>
 		<Unit filename="C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Employe.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Generator.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Generator.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Shapes.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Shapes.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Triangulo.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Triangulo.h">
 			<Option target="untitled1"/>
 		</Unit>
 		<Unit filename="C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/main.cpp">

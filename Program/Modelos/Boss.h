@@ -4,30 +4,27 @@
 
 #ifndef MAIN_CPP_BOSS_H
 #define MAIN_CPP_BOSS_H
-#include "Employe.h"
+#pragma once
 
-class Boss
-        {
+
+
+
+using namespace std;
+
+class  Boss{
 
     public:
 
-        Boss(Employe empleado);
-
-    Boss(const Employe &empleado);
-
-    void Notify();
-
-    private:
-        Employe empleado;
+        Boss();
 
 
+    Boss(int i);
 
-
-
+    void Notify(bool Working, string name);
 
 
 
 };
 
 
-#endif //MAIN_CPP_BOSS_H
+#endif //BOSS_H

@@ -2,21 +2,30 @@
 // Created by Jafet.
 //
 
-#include "Boss.h"
 #include <iostream>
-using namespace std;
+#include <string>
+#include "Boss.h"
 
-Boss::Boss(const Employe &empleado) : empleado(empleado) {}
 
-void Boss::Notify() {
-    if (Boss::empleado.isworking){
-        cout<<"I'm working"<<endl;
-    }else{
-        cout<<"I'm not working"<<endl;
-    }
+
+
+Boss::Boss() {
+
 }
 
 
 
+void Boss::Notify(bool Working,string worker) {
+    cout<<"simple"<<endl;
 
+   if (Working){
+       cout<<worker<<" said,I'm working"<<endl;
+   }else{
+       cout<<worker<<" said,I'm not working"<<endl;
+   }
+}
+
+Boss::Boss(int i) {
+
+}
 

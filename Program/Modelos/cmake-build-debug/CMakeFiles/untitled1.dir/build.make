@@ -118,11 +118,91 @@ CMakeFiles\untitled1.dir\Employe.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\untitled1.dir\Employe.cpp.s /c C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\Employe.cpp
 <<
 
+CMakeFiles\untitled1.dir\Facade_Shapes.cpp.obj: CMakeFiles\untitled1.dir\flags.make
+CMakeFiles\untitled1.dir\Facade_Shapes.cpp.obj: ..\Facade_Shapes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled1.dir/Facade_Shapes.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\untitled1.dir\Facade_Shapes.cpp.obj /FdCMakeFiles\untitled1.dir\ /FS -c C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\Facade_Shapes.cpp
+<<
+
+CMakeFiles\untitled1.dir\Facade_Shapes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/Facade_Shapes.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\untitled1.dir\Facade_Shapes.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\Facade_Shapes.cpp
+<<
+
+CMakeFiles\untitled1.dir\Facade_Shapes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/Facade_Shapes.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\untitled1.dir\Facade_Shapes.cpp.s /c C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\Facade_Shapes.cpp
+<<
+
+CMakeFiles\untitled1.dir\Cuadrado.cpp.obj: CMakeFiles\untitled1.dir\flags.make
+CMakeFiles\untitled1.dir\Cuadrado.cpp.obj: ..\Cuadrado.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled1.dir/Cuadrado.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\untitled1.dir\Cuadrado.cpp.obj /FdCMakeFiles\untitled1.dir\ /FS -c C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\Cuadrado.cpp
+<<
+
+CMakeFiles\untitled1.dir\Cuadrado.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/Cuadrado.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\untitled1.dir\Cuadrado.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\Cuadrado.cpp
+<<
+
+CMakeFiles\untitled1.dir\Cuadrado.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/Cuadrado.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\untitled1.dir\Cuadrado.cpp.s /c C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\Cuadrado.cpp
+<<
+
+CMakeFiles\untitled1.dir\Triangulo.cpp.obj: CMakeFiles\untitled1.dir\flags.make
+CMakeFiles\untitled1.dir\Triangulo.cpp.obj: ..\Triangulo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/untitled1.dir/Triangulo.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\untitled1.dir\Triangulo.cpp.obj /FdCMakeFiles\untitled1.dir\ /FS -c C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\Triangulo.cpp
+<<
+
+CMakeFiles\untitled1.dir\Triangulo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/Triangulo.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\untitled1.dir\Triangulo.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\Triangulo.cpp
+<<
+
+CMakeFiles\untitled1.dir\Triangulo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/Triangulo.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\untitled1.dir\Triangulo.cpp.s /c C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\Triangulo.cpp
+<<
+
+CMakeFiles\untitled1.dir\Facade_Generator.cpp.obj: CMakeFiles\untitled1.dir\flags.make
+CMakeFiles\untitled1.dir\Facade_Generator.cpp.obj: ..\Facade_Generator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/untitled1.dir/Facade_Generator.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\untitled1.dir\Facade_Generator.cpp.obj /FdCMakeFiles\untitled1.dir\ /FS -c C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\Facade_Generator.cpp
+<<
+
+CMakeFiles\untitled1.dir\Facade_Generator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/Facade_Generator.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe > CMakeFiles\untitled1.dir\Facade_Generator.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\Facade_Generator.cpp
+<<
+
+CMakeFiles\untitled1.dir\Facade_Generator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/Facade_Generator.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\untitled1.dir\Facade_Generator.cpp.s /c C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\Facade_Generator.cpp
+<<
+
 # Object files for target untitled1
 untitled1_OBJECTS = \
 "CMakeFiles\untitled1.dir\main.cpp.obj" \
 "CMakeFiles\untitled1.dir\Boss.cpp.obj" \
-"CMakeFiles\untitled1.dir\Employe.cpp.obj"
+"CMakeFiles\untitled1.dir\Employe.cpp.obj" \
+"CMakeFiles\untitled1.dir\Facade_Shapes.cpp.obj" \
+"CMakeFiles\untitled1.dir\Cuadrado.cpp.obj" \
+"CMakeFiles\untitled1.dir\Triangulo.cpp.obj" \
+"CMakeFiles\untitled1.dir\Facade_Generator.cpp.obj"
 
 # External object files for target untitled1
 untitled1_EXTERNAL_OBJECTS =
@@ -130,9 +210,13 @@ untitled1_EXTERNAL_OBJECTS =
 untitled1.exe: CMakeFiles\untitled1.dir\main.cpp.obj
 untitled1.exe: CMakeFiles\untitled1.dir\Boss.cpp.obj
 untitled1.exe: CMakeFiles\untitled1.dir\Employe.cpp.obj
+untitled1.exe: CMakeFiles\untitled1.dir\Facade_Shapes.cpp.obj
+untitled1.exe: CMakeFiles\untitled1.dir\Cuadrado.cpp.obj
+untitled1.exe: CMakeFiles\untitled1.dir\Triangulo.cpp.obj
+untitled1.exe: CMakeFiles\untitled1.dir\Facade_Generator.cpp.obj
 untitled1.exe: CMakeFiles\untitled1.dir\build.make
 untitled1.exe: CMakeFiles\untitled1.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable untitled1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable untitled1.exe"
 	"C:\Program Files\JetBrains\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\untitled1.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1426~1.288\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\untitled1.dir\objects1.rsp @<<
  /out:untitled1.exe /implib:untitled1.lib /pdb:C:\UNIVERSIDAD\Datos2_2021\Extraclase2\TareaExtraclase2_Datos2_2021\Program\Modelos\cmake-build-debug\untitled1.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

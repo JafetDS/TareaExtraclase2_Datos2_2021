@@ -4,31 +4,32 @@
 
 #ifndef MAIN_CPP_EMPLOYE_H
 #define MAIN_CPP_EMPLOYE_H
+#pragma once
+#include <string>
 #include "Boss.h"
 
 
-class Employe {
+class  Employe {
 
 
 
     public:
 
-        Employe();
+        Employe(string name);
 
-        Employe(const Boss &boss);
-
+        string name;
+        Boss boss;
+        bool working;
         bool isworking();
         void setworking(bool working);
         void tell_boss();
         void setBoss(Boss boss);
-        Boss getBoss();
 
 
 
 
-private:
-        bool working;
-        Boss boss;
+
+
 
 
 
@@ -38,4 +39,4 @@ private:
 };
 
 
-#endif //MAIN_CPP_EMPLOYE_H
+#endif //EMPLOYE_H

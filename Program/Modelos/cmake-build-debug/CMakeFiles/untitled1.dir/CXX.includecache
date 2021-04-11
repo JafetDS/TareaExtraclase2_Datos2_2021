@@ -6,33 +6,25 @@
 
 #IncludeRegexTransform: 
 
-C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Boss.cpp
-Boss.h
-C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Boss.h
-iostream
--
+C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Cuadrado.h
+Facade_Shapes.h
+C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Shapes.h
 
-C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Boss.h
-Employe.h
-C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Employe.h
+C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Generator.cpp
+Facade_Generator.h
+C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Generator.h
+Cuadrado.h
+C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Cuadrado.h
+Triangulo.h
+C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Triangulo.h
 
-C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Employe.cpp
-Employe.h
-C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Employe.h
-iostream
--
+C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Generator.h
+Facade_Shapes.h
+C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Shapes.h
 
-C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Employe.h
-Boss.h
-C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Boss.h
+C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Shapes.h
 
-C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/main.cpp
-iostream
--
-stdlib.h
--
-Boss.h
-C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Boss.h
-Employe.h
-C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Employe.h
+C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Triangulo.h
+Facade_Shapes.h
+C:/UNIVERSIDAD/Datos2_2021/Extraclase2/TareaExtraclase2_Datos2_2021/Program/Modelos/Facade_Shapes.h
 
